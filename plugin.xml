@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com.hlxer.plugin" version="0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>hlxer-plugin-base</name>
+    <js-module name="hlxer-plugin-base" src="www/hlxer-plugin-base.js">
+        <clobbers target="cordova.plugins.hlxer-plugin-base" />
+    </js-module>
+</plugin>
